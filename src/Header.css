@@ -1,0 +1,11 @@
+.header{
+    background-color: #fff;
+    padding: 20px;
+    border-bottom: 1px solid lightgrey;
+}
+.header > img{
+    height: 30px;
+    width: 100px;
+    object-fit: contain;
+    
+}

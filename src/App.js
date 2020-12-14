@@ -1,9 +1,18 @@
 import "./App.css";
+import Header from "./Header";
+import Post from "./Post";
 
 function App() {
   return (
     <div className="app">
-      <h1>Build this insta clone</h1>
+      <Header />
+      <Post />
+
+      {/* headers */}
+
+      {/* posts */}
+      {/* posts */}
+      {/* posts */}
     </div>
   );
 }
