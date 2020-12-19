@@ -2,3 +2,15 @@
   background-color: #fafafa;
   height: 100vh;
 }
+
+.app__headerImage{
+  height: 30px;
+  width: 100px;
+  object-fit: contain;
+  
+}
+
+.app__signup > center{
+  display: flex;
+  flex-direction: column;
+}
